@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **PHP , HTML , CSS , JAVASCRIPT, REACT**
+- 🔭 I’m currently working on **PHP , HTML , CSS , JS, REACT**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [](<!-- URL -->)
 
-- 💬 Ask me about **PHP , HTML , CSS , JAVASCRIPT, REACT **
+- 💬 Ask me about **PHP , HTML , CSS , JS, REACT **
 
 - 📫 Feel free to reach me out **williamsteven237gg@gmail.com**
 
