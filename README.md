@@ -31,7 +31,7 @@
 
 - 📫 Feel free to reach me out **williamsteven237gg@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  []() my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord – .stely_69_!
 <!--Intro end-->
 
 
