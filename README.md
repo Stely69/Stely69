@@ -16,19 +16,6 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **PHP , HTML , CSS , JS, REACT**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [](<!-- URL -->)
-
-- 💬 Ask me about **PHP , HTML , CSS , JS, REACT **
-
 - 📫 Feel free to reach me out **williamsteven237gg@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord – .stely_69_!
