@@ -17,7 +17,6 @@
   </ul>
 </div>
 - 📫 Feel free to reach me out **williamsteven237gg@gmail.com**
-
 - 🏠 Don't hesitate to drop me a **👋** on Discord – .stely_69_!
 <!--h1 without bottom border-->
 <div id="user-content-toc">
