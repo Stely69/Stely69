@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bun,css,discord,netlify,php,vercel,figma,github,html,js,linux,materialui,vite,astro,vscode,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bun,css,discord,netlify,php,vercel,figma,github,html,js,linux,materialui,vite,astro,vscode,mysql,nodejs,postman,py,react,tailwind,ts&perline=14" />
   </a>
 </p>
 <!-- Connect with me -->
